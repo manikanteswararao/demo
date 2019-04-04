@@ -1,0 +1,2 @@
+git remote set-url origin git+ssh://git@github.com/manikanteswararao/demo.com
+git remote set-url origin git+ssh://git@github.com/manikanteswararao/demo.git
